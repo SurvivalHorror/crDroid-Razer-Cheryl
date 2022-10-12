@@ -1,2 +1,3 @@
-# :paw_prints: crDroid 7.22 (Android 11) для Razer Cheryl
-При сборке добавлено в ядро только поддержка NTFS , все остальное по умолчанию из lineageos_cheryl_defconfig
+# :paw_prints: crDroid 7 (Android 11) для Razer Cheryl
+При сборке добавлено в ядро только поддержка NTFS, все остальное по умолчанию из lineageos_cheryl_defconfig (LineageOS 18.1)
+Сборки выше 11 андроида делать не буду - в связи с тем что на 12 андроиде не работает фронтальная камера и команда Lineage эту проблему не устраняют
